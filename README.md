@@ -1,6 +1,6 @@
 # Olá Mundo
-Segundo repositório do curso Git e Github.
+Repositório do curso Git e Github.
 
-Repositório criado para revisão. 
+Criado para revisão. 
 
 Essa linha eu adicionei diretamente no site! 
